@@ -6,7 +6,7 @@ export function Menulateral(cat){
     let $lateralmenu=document.createElement('article');
     $lateralmenu.classList.add('lateral-menu-container');
     let $menuimg=document.createElement('img');
-    $menuimg.src='./src/assets/imagenes/Logo luxe.jpg';
+    $menuimg.src='./imagenes/Logo luxe.jpg';
     let $alldiv=document.createElement('div');
     $alldiv.dataset.name='TODOS'
     $alldiv.textContent='TODOS'
