@@ -4,7 +4,8 @@ export function Presentation(){
     let $principalsection=document.createElement('section');
     $principalsection.classList.add('presentation-container')
     $principalsection.innerHTML=`
-    <div class="principal-photo"></div>
+    <div class="principal-photo">
+    </div>
      <article class="phrase">
       <div class="phrase-p">
         Producto 100% hecho por manos argentinas con calidad internacional.

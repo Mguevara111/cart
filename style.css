@@ -86,7 +86,7 @@ body{
 .principal-photo{
     width: 100%;
     height: 200px;
-    background-image: url('../assets/imagenes/freepik-simple-flat-beautiful-boutique-youtube-banner-20241223225404DmW2.png');
+    background-image: url('./imagenes/freepik-simple-flat-beautiful-boutique-youtube-banner-20241223225404DmW2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
